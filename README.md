@@ -8,7 +8,7 @@ $ ./create-full-stack-web-template.sh <directory-path> <project-name>
       - reset.css
   * Backend/
       - app.js
-  - .gitignore/
+  - .gitignore
 
 ### Notes
 Git repository is being initialized in the root folder of the project.
