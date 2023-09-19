@@ -1,5 +1,5 @@
 ### Usage
-$ ./create-full-stack-web-template.sh <directory-path> <project-name>
+$ ./create-full-stack-web-template.sh &lt;irectory-path&lt; &lt;project-name&lt;
 
 ### Folder structure
 * Project-name/
